@@ -1,6 +1,6 @@
 # Parallel Pragramming
 
-Library and solutions for Parallel Computing algorithm / design / problems
+Parallel programming concepts, solution to its different problems and project in java with efficiency report using parallel java 2 (PJ2) library by Prof. Alan Kaminsky.
 
 ## Credits
 Parallel Java 2 library and problem statements to learn Parallel Computing are from Prof. Alan Kaminsky
